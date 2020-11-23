@@ -65,3 +65,24 @@ h2 {
   line-height: 50px;
   list-style-type: none;
 }
+
+footer {
+  text-align: center;
+  background: #EFEFEF;
+  padding: 10px 0;
+}
+/*
+@media(max-width:600px){
+  * {
+    max-width: 100vw;
+  }
+  #title {
+    top: 0;
+    height: 80vh;
+  }
+  #about {
+    width: 90vw;
+    padding-left: 10px;
+  }
+}
+*/
